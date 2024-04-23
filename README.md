@@ -1,0 +1,1 @@
+An epic science fiction time travelling action adventure text-based game written C++. Go through a diverse number of historical events through time travelling. Obtain certain keys and objects to acheive your goal.
